@@ -4,4 +4,18 @@ Here is repo of my web-application projects in **Machine Learning** field
 
   **1.** Sentimental Analysis - based on pretrained ruBERTa model web app builded on flask framework. User can write comments in (on russian language) textform of any web-site or app, then model has been predict emojional type of the text in 3 classes:
   
-  **Позитивный, Негативный или Нейтральный**
+  **Позитивный (Positive), Негативный (Negative) или Нейтральный (Neutral)**
+
+  * Already work app for deploy on any hosting services.
+  * Can work with english and russian words, but specially trained for russian text.
+  * Already finished CSS design for desktop version.
+
+**Main menu**
+<br>
+<img src="https://github.com/everythingisc00l/Machine-Learning-web-apps/assets/105049664/64a8029a-eb50-479c-968e-759f4b1e2d28" width="500"/>
+<br>
+<br>
+**Answer predict**
+<br>
+<br>
+<img src="https://github.com/everythingisc00l/Machine-Learning-web-apps/assets/105049664/db5ee2b5-ee2b-4686-b7f3-73ae1fdfefeb" width="500"/>
