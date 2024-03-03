@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'InterTight-Medium';
+    src: url("/static/fonts/InterTight-Medium.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'InterTight-SemiBold';
+    src: url("/static/fonts/InterTight-SemiBold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'InterTight-Bold';
+    src: url("/static/fonts/InterTight-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'InterTight-Regular';
+    src: url("/static/fonts/InterTight-Regular.ttf") format('truetype');
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Обратная связь</title>
+	<link rel="stylesheet" href="./static/css/styles.css">
+	<link rel="stylesheet" href="./static/fonts.css">
+</head>
+<body>
+	<div class="home"> 
+		<main class="main_page">
+			<div class="main_page_title">Обратная связь</div> 
+			<div class="main_page_title_desc">Нам всегда важно ваше мнение и мы хотим
+				получать от вас обратную связь о нашем приложении. 
+				Оставьте свои комментарии в этой форме, любые предложения будут обязательно рассмотрены.</div> 
+			<div class="main_page_content">
+				<form class="main_page_form" action="/show-prediction/" method="post">
+					<label for="text_input"></label><br>
+					<div class="block_name_text">Ваша почта</div>
+					<input class="main_page_text_area_name" id="text_input_mail" name="" maxlength="50" required></input><br>
+					<div class="block_name_text">Ваше имя</div>
+					<input class="main_page_text_area_name" id="text_input_name" name="" maxlength="50" required></input><br>
+					<div class="block_name_text">Комментарий</div>
+					<textarea class="main_page_text_area_comment" id="text_input" name="text_input" maxlength="500" required></textarea><br>
+					<button class="button_send" type="back">Назад</button>
+					<button class="button_send" type="submit">Отправить</button>
+				</form>
+			</div>
+
+		</main>
+		<footer class="footer">
+			<div class="footer_content">
+				<div class="footer_content_text">
+					2024 © Gennadiy Manzhos
+				</div>
+			</div>
+		</footer>
+	</div>
+</body> 
+</html>
