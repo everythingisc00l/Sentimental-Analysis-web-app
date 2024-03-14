@@ -11,10 +11,7 @@
 <br>
 ![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e-1](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/2066b393-6d8f-4aff-8051-66b6fd0a5266)
 <br>
-<br>
-**Answer predict**
-<br>
-<br>
+
 
 # **Quick start for Windows**
 
