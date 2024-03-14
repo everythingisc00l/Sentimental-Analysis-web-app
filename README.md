@@ -11,14 +11,11 @@
 **Main menu**
 <br>
 ![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/efcbe603-5170-4080-912b-0572bf9e392a)
-
-<img src="https://github.com/everythingisc00l/Machine-Learning-web-apps/assets/105049664/64a8029a-eb50-479c-968e-759f4b1e2d28" width="500"/>
 <br>
 <br>
 **Answer predict**
 <br>
 <br>
-<img src="https://github.com/everythingisc00l/Machine-Learning-web-apps/assets/105049664/db5ee2b5-ee2b-4686-b7f3-73ae1fdfefeb" width="500"/>
 
 # Quick start for Windows
 
