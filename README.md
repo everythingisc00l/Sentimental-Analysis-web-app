@@ -10,7 +10,7 @@
 # **Example**
 
 <br>
-![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/efcbe603-5170-4080-912b-0572bf9e392a)
+![ezgif-3-1283695ca8](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/b946f83d-f090-4c5f-8565-ed31e46fb1fd)
 <br>
 <br>
 **Answer predict**
