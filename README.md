@@ -1,4 +1,5 @@
-  **Sentimental Analysis** - based on pretrained ruBERTa model web app builded on flask framework. User can write comments in (on russian language) textform of any web-site or app, then model has been predict emojional type of the text in 3 classes:
+ # **Sentimental Analysis** - 
+ based on pretrained ruBERTa model web app builded on flask framework. User can write comments in (on russian language) textform of any web-site or app, then model has been predict emojional type of the text in 3 classes:
   
   **Позитивный (Positive), Негативный (Negative) или Нейтральный (Neutral)**
 
@@ -6,7 +7,8 @@
   * Can work with english and russian words, but specially trained for russian text.
   * Already finished CSS design for desktop version.
 
-**Example**
+# **Example**
+
 <br>
 ![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/efcbe603-5170-4080-912b-0572bf9e392a)
 <br>
