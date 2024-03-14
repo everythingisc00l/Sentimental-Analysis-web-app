@@ -8,9 +8,8 @@
   * Already finished CSS design for desktop version.
 
 **Example**
-
 <br>
-![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/3564f183-da75-4730-ad82-c85999b5331b)
+![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e-1](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/2066b393-6d8f-4aff-8051-66b6fd0a5266)
 <br>
 <br>
 **Answer predict**
