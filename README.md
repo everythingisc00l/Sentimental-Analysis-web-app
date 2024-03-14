@@ -7,7 +7,7 @@
   * Can work with english and russian words, but specially trained for russian text.
   * Already finished CSS design for desktop version.
 
-# **Example**
+**Example**
 
 <br>
 ![312942045-71a56cef-c272-4d03-9615-ecb68ee82e3e](https://github.com/everythingisc00l/Sentimental-Analysis-web-app/assets/105049664/3564f183-da75-4730-ad82-c85999b5331b)
